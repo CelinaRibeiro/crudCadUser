@@ -1,0 +1,54 @@
+body{
+	background-color: #EEEEEE;
+}
+
+header, section, footer{
+	background-color: #FFFFFF;
+	margin: auto;	
+}
+
+header{
+	text-align: center;	
+	color: #FFFFFF;
+}
+
+footer{
+	height: 50px;
+	text-align: center;
+	margin-top: 2px;
+	padding-top: 8px;
+	font-size: 14px;
+	font-family: trade gothic;
+	color: #A9A9A9;
+	
+}
+
+a.ln:link, a.ln:visited, a.ln:hover{
+	text-decoration: none;
+	color: #808080;
+	font-style: inherit;
+}
+
+.imglogo{
+	width: 60px;
+	padding-left: 10px;
+}
+
+.login{
+	background-color: #FFFFFF;
+	width: 500px;
+	margin: auto;
+	height: 300px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.centro{
+	background-color: #FFFFFF;
+	width: 800px;
+	margin: auto;
+	height: auto;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	
+}
